@@ -1,0 +1,11 @@
+{
+  "name": "enricomarino-webgl-attribute",
+  "description": "WebGL Attribute component",
+  "version": "0.1.0",
+  "keywords": [
+    "webgl",
+    "attribute"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
